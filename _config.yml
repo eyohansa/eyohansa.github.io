@@ -17,4 +17,4 @@ github_username:  eyohansa
 
 # Build settings
 markdown: kramdown
-highlighter: true
+pygments: true
