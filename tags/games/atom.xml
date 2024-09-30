@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - games</title>
+    <link rel="self" type="application/atom+xml" href="https://eyohansa.github.io/tags/games/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://eyohansa.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-29T00:00:00+00:00</updated>
+    <id>https://eyohansa.github.io/tags/games/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Building Railway</title>
+        <published>2024-09-29T00:00:00+00:00</published>
+        <updated>2024-09-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://eyohansa.github.io/blog/building-railway/"/>
+        <id>https://eyohansa.github.io/blog/building-railway/</id>
+        
+        <content type="html" xml:base="https://eyohansa.github.io/blog/building-railway/">&lt;p&gt;I have been playing Satisfactory recently, with a friend, ever since its 1.0 launch. I&#x27;ve bought the game a long time ago when it was on a discount but haven&#x27;t had a chance to play it. The launch has given me motivation to push everything else aside and finally played the game.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve been having a blast with the game. I&#x27;ve always enjoyed factory-building games; having previously played Factorio and Dyson Sphere Program (my personal favorite). I guess I enjoy seeing numbers go up. It also helps that resource nodes don&#x27;t deplete in this game so it&#x27;s actually possible to never tidy your factory; no matter how unsightly it becomes.&lt;&#x2F;p&gt;
+&lt;p&gt;Today, I spent most of my time building the in-game railway. I built mine on top of water on the Northwestern area; going from a Caterium Ore node West of my spawn, up to the oil fields in the North. Building above water means placing a lot of foundations.&lt;&#x2F;p&gt;
+&lt;p&gt;Building foundations over the span of vast areas requires a lot of resources. Usually, carrying this many resources would fill up a player&#x27;s inventory. Thankfully, ever since the launch, Satisfactory provides player with really nifty dimensional storage.&lt;&#x2F;p&gt;
+&lt;div class=&quot;textCenter&quot;&gt;
+  &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;1drv.ms&amp;#x2F;i&amp;#x2F;s!Askp_VsaB6js6xoi1_fAx5JbyUNG?embed=1&amp;amp;width=1024&quot; alt=&quot;Railway over Ocean&quot;&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;p&gt;It looks quite majestic once finished&lt;&#x2F;p&gt;
+&lt;div class=&quot;textCenter&quot;&gt;
+  &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;1drv.ms&amp;#x2F;i&amp;#x2F;s!Askp_VsaB6js6xyCB1eEz2gZxqMF?embed=1&amp;amp;width=1024&quot; alt=&quot;Train Station with Inbound Train&quot;&gt;
+  
+&lt;&#x2F;div&gt;
+&lt;p&gt;Aside from the tedious task of laying down foundation, the setting up was actually quite straightforward. I even managed to make it runs autonomously. It periodically brings a batch of plastic (and eventually, rubber) to my outpost which would bring it over to my base with conveyor belts. It&#x27;s definitely a beauty to behold.&lt;&#x2F;p&gt;
+&lt;p&gt;Is it too late to say I quite like trains?&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
